@@ -4,7 +4,7 @@ Webapp interactive pour une agence de voyage temporel fictive.
 Le projet permet aux utilisateurs de découvrir différentes destinations temporelles,
 d’interagir avec un agent conversationnel IA et de personnaliser leur expérience de voyage.
 
-Projet réalisé dans le cadre d’un travail de groupe (4 personnes).
+Projet réalisé dans le cadre d’un travail de groupe (3 personnes).
 
 ---
 
@@ -124,12 +124,11 @@ URL publique : **https://v0-luxury-time-travel-landing-page-iota.vercel.app/**
 
 ##  Équipe
 
-Projet réalisé en groupe (4 personnes) :
+Projet réalisé en groupe (3 personnes) :
 
 - BERMOND Ethan
 - INSA NAKIB Elamine
--  BOUZID Mehdy
-- Nom Prénom
+- BOUZID Mehdy
 
 ---
 
